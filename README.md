@@ -55,7 +55,7 @@ As a member of Global Electronics' data analytics team, your primary task is to 
 - Geographical Analysis: Identify high-performing regions based on store locations.
 
 **Results**
-Upon completion, this project will deliver a comprehensive EDA report for Global Electronics, featuring:
+  Upon completion, this project will deliver a comprehensive EDA report for Global Electronics, featuring:
 - Cleaned and integrated datasets.
 - In-depth insights into customer demographics, purchasing behaviors, product performance, store operations, and the impact of currency exchange rates on sales.
 - Visually compelling dashboards and visualizations.
